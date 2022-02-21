@@ -14,9 +14,8 @@
 
 - 📫 How to reach me **denyw602@gmail.com**
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=denjayx&show_icons=true&locale=en" alt="denjayx" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=denjayx&show_icons=true&locale=en" alt="denjayx" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=denjayx&" alt="denjayx" /></p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
