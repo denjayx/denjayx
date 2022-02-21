@@ -3,9 +3,9 @@
 
 - 🧑‍🎓 I’m currently study on **Amikom University Of Yogyakarta - Bachelor Of Informatics**
 
-- 🧑‍💻 I’m currently learning **Tailwind and React JS**
-
 - 🏫 I've studied at **SMK Muhammadiyah 3 Metro**
+
+- 🧑‍💻 I’m currently learning **Tailwind and React JS**
 
 - 📍 Currently I live in [Yogyakarta, Indonesia](Yogyakarta, Indonesia)
 
