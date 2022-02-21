@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Deni Wijaya</h1>
 <h3 align="center">I Focused to Learn FrontEnd Development</h3>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=denjayx&show_icons=true&locale=en" alt="denjayx" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=denjayx&" alt="denjayx" /></p>
 
 - 🧑‍🎓 I’m currently study on **Amikom University Of Yogyakarta - Bachelor Of Informatics**
 
@@ -16,6 +13,10 @@
 - 🗺️ I come from **Lampung, Indonesia**
 
 - 📫 How to reach me **denyw602@gmail.com**
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=denjayx&show_icons=true&locale=en" alt="denjayx" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=denjayx&" alt="denjayx" /></p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
